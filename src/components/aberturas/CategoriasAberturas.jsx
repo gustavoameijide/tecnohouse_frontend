@@ -32,7 +32,7 @@ export const CategoriasAberturas = ({
           onClick={openModalVerCategoria}
           className="bg-slate-300 text-primary font-bold py-2 px-3 rounded cursor-pointer hover:shadow hover:shadow-black/20 transition-all ease-in-out"
         >
-          Ver categorias creada
+          Ver categorias creadas
         </button>
         <button
           onClick={openModalEditarColores}
