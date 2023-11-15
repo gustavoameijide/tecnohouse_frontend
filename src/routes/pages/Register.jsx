@@ -18,7 +18,7 @@ export const Register = () => {
     const user = await signup(data);
 
     if (user) {
-      navigate("/home");
+      navigate("/");
     }
   });
 
